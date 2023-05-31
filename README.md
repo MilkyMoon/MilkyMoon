@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning redis.
 - 📫 How to reach me. [codwiki.cn](https://codwiki.cn)
 
-![rfyiamcool's github stats](https://github-readme-stats.vercel.app/api?username=MilkyMoon&show_icons=true&count_private=true&line_height=40&hide_border=true&theme=vue)
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MilkyMoon&hide=html,css&hide_border=true&theme=vue)](https://github.com/MilkyMoon)
+![rfyiamcool's github stats](https://github-readme-stats.vercel.app/api?username=MilkyMoon&show_icons=true&count_private=true&line_height=40&hide_border=true)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MilkyMoon&hide=html,css&hide_border=true)](https://github.com/MilkyMoon)
 
 <img src="https://visitor-badge.laobi.icu/badge?page_id=MilkyMoon.MilkyMoon" alt="visitor badge"/> 
