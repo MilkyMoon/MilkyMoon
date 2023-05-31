@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me. [codwiki.cn](https://codwiki.cn)
 
 ![rfyiamcool's github stats](https://github-readme-stats.vercel.app/api?username=MilkyMoon&show_icons=true&count_private=true&line_height=40&hide_border=true&theme=vue)
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MilkyMoon&hide=html&exclude_repo=python_vim&hide_border=true&theme=vue)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MilkyMoon&hide=html,css&hide_border=true&theme=vue)
 
 <img src="https://visitor-badge.laobi.icu/badge?page_id=MilkyMoon.MilkyMoon" alt="visitor badge"/> 
