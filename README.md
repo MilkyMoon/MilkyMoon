@@ -1,6 +1,5 @@
 ![](https://github.com/rfyiamcool/rfyiamcool/blob/master/header.png)
 ### <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi there 👋
-[![Github](https://img.shields.io/github/followers/rfyiamcool?label=Follow&style=social)](https://github.com/MilkyMoon)
 <!--
 **MilkyMoon/MilkyMoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently learning linux.
+- 🌱 I’m currently learning redis.
 - 📫 How to reach me. [codwiki.cn](https://codwiki.cn)
 
 ![rfyiamcool's github stats](https://github-readme-stats.vercel.app/api?username=MilkyMoon&show_icons=true&count_private=true&line_height=40&hide_border=true&theme=vue)
